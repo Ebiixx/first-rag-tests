@@ -98,4 +98,4 @@ Users can manage the knowledge base directly through the interface:
 
 ## License
 
-[MIT](LICENSE)
+This project is licensed under the MIT License. See the LICENSE file for details.
